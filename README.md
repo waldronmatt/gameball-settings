@@ -11,7 +11,7 @@ I use windows to set default mouse settings and x-mouse to enhance my gameball s
 - Pointer motion set to the middle as a default
 - **Enhance pointer precision** is enabled
 
-## Gameball Settings
+## GameBall Settings
 
 ![gameball settings](img/gameball-settings.png)
 
